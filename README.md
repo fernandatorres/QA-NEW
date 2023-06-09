@@ -42,5 +42,32 @@ Verificamos en CMD con el código mvn -v
 ![image](https://github.com/fernandatorres/QA-NEW/assets/11081538/9d56e1ac-789d-4a0a-9442-794137ac7221)
 <br />
 Instalación de la interfaz gráfica intellij
+<br />![image](https://github.com/fernandatorres/QA-NEW/assets/11081538/163066fa-613e-45df-8292-73e51a162ed9)
 <br />
 
+<br />
+Se descarga los drivers de Google chome
+<br />Verificamos la versión actual deL navegador, en este caso la versión seria la 114 
+<br />
+
+En mi caso guardare en el escritorio para ser usada una vez iniciemos a ser automatización de pruebas. 
+
+<br />
+Importamos Dependencia de selerium para a ejecutar pruebas en la clase pom.xlm agregamos las siguientes líneas de código 
+
+<br />
+ ![image](https://github.com/fernandatorres/QA-NEW/assets/11081538/3da0d4e2-c1ce-4a1b-b08e-22e63547e41)
+
+<br />
+
+
+
+<br />
+
+La dependencia mencionada anterior mente se debe  agragar el codigo en Pom.xml
+<br />
+### Importar Herramienta de Testing 
+<br />
+En la clase pon.xml agregamos las líneas de código 
+<br />
+![image](https://github.com/fernandatorres/QA-NEW/assets/11081538/8324d540-a0de-4a01-a10d-b6d1c8a445ac)
