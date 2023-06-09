@@ -28,3 +28,10 @@ Continuamos descargando Maven apache, una vez la computadora solo descomprimimos
 <br />
 Se crea una nueva variable del sistema con ubicación del archivo.
 <br />
+![image](https://github.com/fernandatorres/QA-NEW/assets/11081538/46362599-c15a-42f4-af6d-74559d75409e)
+
+<br />En la opción de PACH agregamos la siguiente línea 
+<br />
+%MAVEN_HOME%\bin
+<br />
+![image](https://github.com/fernandatorres/QA-NEW/assets/11081538/664306ee-4b37-4b06-96ff-48d938ceabed)
