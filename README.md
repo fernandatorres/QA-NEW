@@ -23,6 +23,7 @@ Para verificar la correcta instalación en CMD se verifica.
 <br />
 ![image](https://github.com/fernandatorres/QA-NEW/assets/11081538/d0bab8ac-12c1-45df-89cb-3024b93005b4)
 
+
 <br />
 Continuamos descargando Maven apache, una vez la computadora solo descomprimimos y continuamos en la configuración de variables de ambiente. 
 <br />
@@ -35,3 +36,11 @@ Se crea una nueva variable del sistema con ubicación del archivo.
 %MAVEN_HOME%\bin
 <br />
 ![image](https://github.com/fernandatorres/QA-NEW/assets/11081538/664306ee-4b37-4b06-96ff-48d938ceabed)
+<br />
+Verificamos en CMD con el código mvn -v
+<br />
+![image](https://github.com/fernandatorres/QA-NEW/assets/11081538/9d56e1ac-789d-4a0a-9442-794137ac7221)
+<br />
+Instalación de la interfaz gráfica intellij
+<br />
+
