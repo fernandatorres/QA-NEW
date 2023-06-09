@@ -16,4 +16,15 @@ De igual forma en Variable del sistema
 <br <br /><br />
 En la opción del PACH adicionamos uno con la ruta de acceso de donde está ubicada.
 <br />
+<br /><br />
+![image](https://github.com/fernandatorres/QA-NEW/assets/11081538/65b6e728-807d-486c-ae6e-85d8f68bae6b)
+<br />
+Para verificar la correcta instalación en CMD se verifica.
+<br />
+![image](https://github.com/fernandatorres/QA-NEW/assets/11081538/d0bab8ac-12c1-45df-89cb-3024b93005b4)
+
+<br />
+Continuamos descargando Maven apache, una vez la computadora solo descomprimimos y continuamos en la configuración de variables de ambiente. 
+<br />
+Se crea una nueva variable del sistema con ubicación del archivo.
 <br />
